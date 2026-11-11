@@ -10,3 +10,4 @@ This repository is structured into logical modules tracking my progress through 
 Python fundamentals, covering core syntax, data types, string manipulation, functions, and control flow logic.
 
 * [python-basics.md](./python-basics.md) — Comprehensive guide on Python fundamentals, dynamic typing, string manipulation, math operations, functions, scope, and control flow logic.
+* [python-loops-and-sequences.md](./python-loops-and-sequences.md) — Comprehensive guide on Python lists, tuples, loops, range generation, iteration utilities, list comprehensions, and lambda functions.
