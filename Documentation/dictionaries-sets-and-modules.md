@@ -34,11 +34,3 @@
   * `re.IGNORECASE`: Flag for case-insensitive matching.
   * **Raw Strings (`r''`) & Quantifiers**: Treats backslashes literally (`r'\d'` matches digits; `+` matches one or more repetitions).
 * **Utilities**: Object identity checks (`is` / `is not`, standard for checking `None`) and `all()` (returns `True` if every element in an iterable is truthy).
-
----
-
-### Placement Recommendation
-* **Target Section**: **`🔹 Module 1: Python Fundamentals`** (or advanced Python data structures section)
-* **Suggested Entry**: 
-  ```markdown
-  * [dictionaries-sets-and-modules.md](./dictionaries-sets-and-modules.md) — Comprehensive guide on Python dictionaries, sets, module imports, `__name__ == '__main__'`, data validation, and regular expressions.
