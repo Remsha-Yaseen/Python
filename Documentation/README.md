@@ -11,3 +11,4 @@ Python fundamentals, covering core syntax, data types, string manipulation, func
 
 * [basics.md](./basics.md) — Comprehensive guide on Python fundamentals, dynamic typing, string manipulation, math operations, functions, scope, and control flow logic.
 * [loops-and-sequences.md](./loops-and-sequences.md) — Comprehensive guide on Python lists, tuples, loops, range generation, iteration utilities, list comprehensions, and lambda functions.
+* [dictionaries-sets-and-modules.md](./dictionaries-sets-and-modules.md) — Comprehensive guide on Python dictionaries, sets, module imports, `__name__ == '__main__'`, data validation, and regular expressions.
