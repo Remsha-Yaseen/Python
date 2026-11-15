@@ -13,3 +13,8 @@ Python fundamentals, covering core syntax, data types, string manipulation, func
 * [loops-and-sequences.md](./loops-and-sequences.md) — Comprehensive guide on Python lists, tuples, loops, range generation, iteration utilities, list comprehensions, and lambda functions.
 * [dictionaries-sets-and-modules.md](./dictionaries-sets-and-modules.md) — Comprehensive guide on Python dictionaries, sets, module imports, `__name__ == '__main__'`, data validation, and regular expressions.
 * [error-handling.md](./error-handling.md) — Comprehensive guide on Python error types, debugging tools (`pdb`, IDE stepping), `try...except...else...finally` blocks, custom exceptions, and exception chaining.
+
+### 🔹Module 2: Object-Oriented Programming
+Object-Oriented Programming, teaching classes, attributes, methods, dunder functions, and object composition.
+
+  * [classes-and-objects.md](./classes-and-objects.md) — Comprehensive guide on Python classes, attributes, dynamic manipulation, dunder methods, object composition, and `datetime` integration.
